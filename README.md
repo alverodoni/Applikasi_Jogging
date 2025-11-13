@@ -27,7 +27,7 @@ Mata Kuliah: Pemograman Mobile 1 <p>
 - Menampilkan Kebiasaan Momentum dan hari Minggu `(Jarak, Waktu, Kenaikan Elevasi)` yang divisualisasikan dengan Visualisasi Grafik.
 
 ### Alur Sosial dan Komunitas
-- Halaman Komunitas (Figma7.jpg): Area untuk mencari dan bergabung dengan klub atau komunitas `(Pelari Kalbar, Penggemar Trek, dll.)` melalui fungsi Cari Komunitas.
+- Halaman Komunitas: Area untuk mencari dan bergabung dengan klub atau komunitas `(Pelari Kalbar, Penggemar Trek, dll.)` melalui fungsi Cari Komunitas.
 - Halaman Pencarian Teman/Klub: Memungkinkan pencarian dan navigasi antara Teman dan Klub. Terdapat opsi untuk mencari teman dari platform lain seperti Facebook dan Kontak.
 Secara keseluruhan, UI ini dirancang dengan navigasi yang jelas (melalui footer navigasi), fokus pada data `(grafik)`, dan fitur sosial `(komunitas dan teman)` untuk mendorong aktivitas pengguna.
 
